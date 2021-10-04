@@ -1,5 +1,5 @@
 import React from "react";
-import Style from "./Style";
+import Style from "../module/Style";
 
 
 const Picker = ({changeColor}) => {

@@ -1,5 +1,5 @@
 import React from "react";
-import Style from "../component/Style";
+import Style from "./Style";
 
 const Schedule = (index, todo) => {
     const result =[]

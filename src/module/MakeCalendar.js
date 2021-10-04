@@ -1,6 +1,6 @@
 import React from 'react';
 import Schedule from "./Schedule";
-import { transString } from "../component/CalcDate";
+import { transString } from "./CalcDate";
 
 /*
  * 현재 날짜를 key값 형식으로 변환
