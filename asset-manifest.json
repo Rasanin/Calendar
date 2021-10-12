@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/github.io/calendar/static/css/main.5d807282.chunk.css",
+    "main.js": "/github.io/calendar/static/js/main.190a243e.chunk.js",
+    "main.js.map": "/github.io/calendar/static/js/main.190a243e.chunk.js.map",
+    "runtime-main.js": "/github.io/calendar/static/js/runtime-main.d300b572.js",
+    "runtime-main.js.map": "/github.io/calendar/static/js/runtime-main.d300b572.js.map",
+    "static/js/2.f5e9759c.chunk.js": "/github.io/calendar/static/js/2.f5e9759c.chunk.js",
+    "static/js/2.f5e9759c.chunk.js.map": "/github.io/calendar/static/js/2.f5e9759c.chunk.js.map",
+    "static/js/3.c26a2807.chunk.js": "/github.io/calendar/static/js/3.c26a2807.chunk.js",
+    "static/js/3.c26a2807.chunk.js.map": "/github.io/calendar/static/js/3.c26a2807.chunk.js.map",
+    "index.html": "/github.io/calendar/index.html",
+    "static/css/main.5d807282.chunk.css.map": "/github.io/calendar/static/css/main.5d807282.chunk.css.map",
+    "static/js/2.f5e9759c.chunk.js.LICENSE.txt": "/github.io/calendar/static/js/2.f5e9759c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d300b572.js",
+    "static/js/2.f5e9759c.chunk.js",
+    "static/css/main.5d807282.chunk.css",
+    "static/js/main.190a243e.chunk.js"
+  ]
+}
